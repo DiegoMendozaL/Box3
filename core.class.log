@@ -1,0 +1,121 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215534062775@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2E150F7FAB8C6ADB94',
+    participant: undefined
+  },
+  messageTimestamp: 1716835756,
+  pushName: 'Diego😛',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215534062775'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7f68d2cb-8332-4554-b7c9-2e2c6fba648c',
+  keyword: 'key_76a44f1f-1893-4a94-b0f6-0139b32e956e',
+  answer: '¡Hola te estás comunicando a Perros y Burros!\n' +
+    'Gracias por escribirnos, prepárate para sorprenderte con todo lo que tenemos para ti.😏😎\n' +
+    '¿En dónde nos visitarás? 🤔✨ Por favor selecciona la opción que corresponda. 😉👇\n' +
+    '1. Estado de México\n' +
+    '2. Ciudad de México',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '89c5b19adfc8a2176021919dbf286ef9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db5a04ed-225b-40c6-a30b-afcbd008687c',
+  keyword: 'ans_7f68d2cb-8332-4554-b7c9-2e2c6fba648c',
+  answer: 'Escribe *1* para Estado de México o *2* para Ciudad de México.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37349c4a3366db8a76e4ea2fcc3b6105'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215534062775@s.whatsapp.net',
+    fromMe: false,
+    id: '3A18C0A2AE67282D68F3',
+    participant: undefined
+  },
+  messageTimestamp: 1716835764,
+  pushName: 'Diego😛',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero facturar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero facturar',
+  from: '5215534062775'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_38c71ce6-4379-440f-b121-b1074645859f',
+  keyword: 'key_62652aa2-7e3b-4f41-9181-03f593157943',
+  answer: '¡Hola! Para facturar 🗒️ envíame un correo a facturame.pyb@gmail.com:\n' +
+    '- Método de pago\n' +
+    '- Datos de Facturación\n' +
+    '- Ticket o captura de tu pedido delivery.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca5ec57a4348600f45dcfab8a0b19c7a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215534062775@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8D7DB820F657FCCBB9',
+    participant: undefined
+  },
+  messageTimestamp: 1716835786,
+  pushName: 'Diego😛',
+  broadcast: false,
+  message: Message {
+    conversation: 'Algoritmo.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Algoritmo.',
+  from: '5215534062775'
+}

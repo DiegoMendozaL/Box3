@@ -1,0 +1,84 @@
+
+> base-bailey-memory@1.0.0 prestart
+> npx eslint . --no-ignore
+
+
+> base-bailey-memory@1.0.0 start
+> node app.js
+
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Polka.listen (/Users/disenopyb/Desktop/box3/base-baileys-memory/node_modules/polka/index.js:66:22)
+    at start (/Users/disenopyb/Desktop/box3/base-baileys-memory/node_modules/@bot-whatsapp/portal/lib/portal.http.cjs:65:10)
+    at main (/Users/disenopyb/Desktop/box3/base-baileys-memory/app.js:127:5)
+    at Object.<anonymous> (/Users/disenopyb/Desktop/box3/base-baileys-memory/app.js:130:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1899:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v20.11.1
+
+> base-bailey-memory@1.0.0 prestart
+> npx eslint . --no-ignore
+
+
+> base-bailey-memory@1.0.0 start
+> node app.js
+
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Polka.listen (/Users/disenopyb/Desktop/box3/base-baileys-memory/node_modules/polka/index.js:66:22)
+    at start (/Users/disenopyb/Desktop/box3/base-baileys-memory/node_modules/@bot-whatsapp/portal/lib/portal.http.cjs:65:10)
+    at main (/Users/disenopyb/Desktop/box3/base-baileys-memory/app.js:127:5)
+    at Object.<anonymous> (/Users/disenopyb/Desktop/box3/base-baileys-memory/app.js:130:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1899:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+Node.js v20.11.1
+
+> base-bailey-memory@1.0.0 prestart
+> npx eslint . --no-ignore
+
+
+> base-bailey-memory@1.0.0 start
+> node app.js
+
+
+🚩 ESCANEAR QR 🚩
+Existen varias maneras de escanear el QR code
+- Tambien puedes visitar  http://localhost:3000
+- Se ha creado un archivo que finaliza  qr.png
+
+Proveedor conectado y listo
+
