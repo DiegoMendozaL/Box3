@@ -1,11 +1,71 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '5215534062775@s.whatsapp.net',
+    remoteJid: '5215627505022@s.whatsapp.net',
     fromMe: false,
-    id: '3A2E150F7FAB8C6ADB94',
+    id: 'C4B067376ABAB20C7DD8B1C6F45BCD87',
     participant: undefined
   },
-  messageTimestamp: 1716835756,
+  messageTimestamp: 1716851510,
+  pushName: 'Edgar Briones 🫡',
+  broadcast: false,
+  message: Message {
+    conversation: 'Son 2 amigo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Son 2 amigo',
+  from: '5215627505022'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215627505022@s.whatsapp.net',
+    fromMe: false,
+    id: '988ECE85CE959D6BC348B7003DA12E0B',
+    participant: undefined
+  },
+  messageTimestamp: 1716851519,
+  pushName: 'Edgar Briones 🫡',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y disculpa el inconveniente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y disculpa el inconveniente',
+  from: '5215627505022'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215534062775@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD573C9504CBE9968B',
+    participant: undefined
+  },
+  messageTimestamp: 1716854100,
+  pushName: 'Diego😛',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5215534062775'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215534062775@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA2D493FF0422492B7D',
+    participant: undefined
+  },
+  messageTimestamp: 1716854104,
   pushName: 'Diego😛',
   broadcast: false,
   message: Message {
@@ -19,8 +79,8 @@
   from: '5215534062775'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_7f68d2cb-8332-4554-b7c9-2e2c6fba648c',
-  keyword: 'key_76a44f1f-1893-4a94-b0f6-0139b32e956e',
+  ref: 'ans_7a06c934-1eb9-4709-a76c-0b2a61ce605b',
+  keyword: 'key_3f1181b3-ca38-44cb-b6e0-a754efa2e236',
   answer: '¡Hola te estás comunicando a Perros y Burros!\n' +
     'Gracias por escribirnos, prepárate para sorprenderte con todo lo que tenemos para ti.😏😎\n' +
     '¿En dónde nos visitarás? 🤔✨ Por favor selecciona la opción que corresponda. 😉👇\n' +
@@ -38,11 +98,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '89c5b19adfc8a2176021919dbf286ef9'
+  refSerialize: 'cb1b7b39dcdfd57463a7b703b843a964'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_db5a04ed-225b-40c6-a30b-afcbd008687c',
-  keyword: 'ans_7f68d2cb-8332-4554-b7c9-2e2c6fba648c',
+  ref: 'ans_ee13693b-c35d-4a00-99ac-67763295fa34',
+  keyword: 'ans_7a06c934-1eb9-4709-a76c-0b2a61ce605b',
   answer: 'Escribe *1* para Estado de México o *2* para Ciudad de México.',
   options: {
     media: null,
@@ -56,35 +116,101 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '37349c4a3366db8a76e4ea2fcc3b6105'
+  refSerialize: 'fcc6bce3b10b6f846463febee5895b7e'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5215534062775@s.whatsapp.net',
     fromMe: false,
-    id: '3A18C0A2AE67282D68F3',
+    id: '3AA7B1889E86B3C231E8',
     participant: undefined
   },
-  messageTimestamp: 1716835764,
+  messageTimestamp: 1716854108,
   pushName: 'Diego😛',
   broadcast: false,
   message: Message {
-    conversation: 'Quiero facturar',
+    conversation: '2',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Quiero facturar',
+  body: '2',
   from: '5215534062775'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_38c71ce6-4379-440f-b121-b1074645859f',
-  keyword: 'key_62652aa2-7e3b-4f41-9181-03f593157943',
-  answer: '¡Hola! Para facturar 🗒️ envíame un correo a facturame.pyb@gmail.com:\n' +
-    '- Método de pago\n' +
-    '- Datos de Facturación\n' +
-    '- Ticket o captura de tu pedido delivery.',
+  ref: 'ans_b020ae82-766d-471d-8acd-2accf57dd058',
+  keyword: 'key_d7a908eb-77a4-4f22-875a-ec7942ae7b94',
+  answer: 'Has seleccionado Ciudad de México. Por favor, asegúrate de escribir correctamente la sucursal que vas a visitar.\n' +
+    '• Vía Vallejo\n' +
+    '• Linda Vista\n' +
+    '• Rosario\n' +
+    '• Águilas\n' +
+    '• Antenas\n' +
+    '• Central\n' +
+    '• Cuauhtémoc\n' +
+    '• Buenavista\n' +
+    '• Cuicuilco\n' +
+    '• Oceanía\n' +
+    '• Parque Jardín\n' +
+    '• Tepeyac',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '76e0f9667724054741f0f781aeca51e2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215534062775@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD9FA37BA7D65E9BF55',
+    participant: undefined
+  },
+  messageTimestamp: 1716854112,
+  pushName: 'Diego😛',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tepeyac',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tepeyac',
+  from: '5215534062775'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7f9c095a-ef7a-4cad-b195-2014c3e0c58b',
+  keyword: 'key_3a5c9bf3-0ec5-4719-8e72-2f6bc544afe0',
+  answer: 'tepeyac\n' +
+    'Recuerda que no necesitas reservación al llegar se te asigna tu mesa. 😋🍴 Y nuestros horarios son de Lunes a Miércoles es de 9:00 a.m. – 12 a.m. 😉 Jueves a Sábado de 9:00 am – 1 a.m. 😉.\n' +
+    '¿Qué te gustaría saber de nuestra sucursal? 👀✨\n' +
+    '1. Ubicación\n' +
+    '¡Encuéntranos fácilmente y únete a la diversión! 🗺️✨ Haz clic en el enlace para descubrir dónde estamos ubicados y cómo llegar hasta nosotros. ¡Te esperamos! (https://maps.app.goo.gl/RFYUzf683scxtfi46)\n' +
+    '2. Cartelera (Bandas en Vivo o Karaoke)\n' +
+    '🎶 ¡Descubre los horarios de las bandas y las fechas de karaoke! 🎤 Haz clic en nuestro enlace y no te pierdas ni un solo momento de diversión. 😃 (https://perrosyburros.com/entretenimiento/).\n' +
+    '3. Partidos en vivo\n' +
+    '¡No te pierdas ni un segundo de la acción! 📺 Únete a nosotros para ver los emocionantes partidos mientras ocurren. ⚽️🔥 ¡Prepárate para la emoción! 💥 (https://perrosyburros.com/).\n' +
+    '4. Promociones\n' +
+    '¡Estas son nuestras promociones disponibles! 😏 Haz clic en nuestro enlace para poderlas conocerlas todas. 😎🌯 (https://perrosyburros.com/promociones/).',
   options: {
     media: null,
     buttons: [],
@@ -97,25 +223,170 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'ca5ec57a4348600f45dcfab8a0b19c7a'
+  refSerialize: '65ef75ebbec02f3101e77133e5d90084'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5215534062775@s.whatsapp.net',
+    remoteJid: '5215634172848@s.whatsapp.net',
     fromMe: false,
-    id: '3A8D7DB820F657FCCBB9',
+    id: '3A661F1E0E7A86767389',
     participant: undefined
   },
-  messageTimestamp: 1716835786,
-  pushName: 'Diego😛',
+  messageTimestamp: 1716854956,
+  pushName: 'Gadiel',
   broadcast: false,
   message: Message {
-    conversation: 'Algoritmo.',
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola, en que podemos ayudarte?',
+      contextInfo: [ContextInfo]
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Algoritmo.',
-  from: '5215534062775'
+  body: 'Hola, en que podemos ayudarte?',
+  from: '5215634172848'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7a06c934-1eb9-4709-a76c-0b2a61ce605b',
+  keyword: 'key_3f1181b3-ca38-44cb-b6e0-a754efa2e236',
+  answer: '¡Hola te estás comunicando a Perros y Burros!\n' +
+    'Gracias por escribirnos, prepárate para sorprenderte con todo lo que tenemos para ti.😏😎\n' +
+    '¿En dónde nos visitarás? 🤔✨ Por favor selecciona la opción que corresponda. 😉👇\n' +
+    '1. Estado de México\n' +
+    '2. Ciudad de México',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cb1b7b39dcdfd57463a7b703b843a964'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee13693b-c35d-4a00-99ac-67763295fa34',
+  keyword: 'ans_7a06c934-1eb9-4709-a76c-0b2a61ce605b',
+  answer: 'Escribe *1* para Estado de México o *2* para Ciudad de México.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fcc6bce3b10b6f846463febee5895b7e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215634172848@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA2E95317870E057422',
+    participant: undefined
+  },
+  messageTimestamp: 1716854969,
+  pushName: 'Gadiel',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5215634172848'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215634172848@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB09DB23CDDB06E3E03',
+    participant: undefined
+  },
+  messageTimestamp: 1716854975,
+  pushName: 'Gadiel',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5215634172848'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215630919245@s.whatsapp.net',
+    fromMe: false,
+    id: '9524752980762F5131F2E3F9F5AB5572',
+    participant: undefined
+  },
+  messageTimestamp: 1716855214,
+  pushName: 'Lu Is',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cómo bas unu vine a Hidalgo, la bolillo m avyso k andaba acá',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo bas unu vine a Hidalgo, la bolillo m avyso k andaba acá',
+  from: '5215630919245'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215630919245@s.whatsapp.net',
+    fromMe: false,
+    id: 'A62B0E1FF6BE3FEB0D32C85CB146D815',
+    participant: undefined
+  },
+  messageTimestamp: 1716855235,
+  pushName: 'Lu Is',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/35093904_1031220401354201_263497841559060458_n.enc?ccb=11-4&oh=01_Q5AaIMfFK1RYYzOkrQSCYIJV6KQ2N-lfdD4rJLRgpVDxybu6&oe=667C9FBC&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 720,
+      width: 1280,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/35093904_1031220401354201_263497841559060458_n.enc?ccb=11-4&oh=01_Q5AaIMfFK1RYYzOkrQSCYIJV6KQ2N-lfdD4rJLRgpVDxybu6&oe=667C9FBC&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__479940e2-9548-4d2a-9321-0929e5a8e458',
+  from: '5215630919245'
 }
